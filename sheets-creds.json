@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "crypto-compass-384005",
+  "private_key_id": "fa8c2718028836d79b9587069877e91ca8e068af",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDBn3C4dHD5EoXG\nNr0sQsOjRtbLxmRMOZFumqW5mmcbtOBrw50zVsxKrw3lsaF/NVXPa4Tyxb1AekY0\nQpn3fv6oyzO4KkRHrwSK13dXSKt+h+C2J0pGP/zBhl+WKaMZ0nARoLxK+bwlGFzV\npOGHPaMASOMYOtSBxVyn0O5GUuMFwlcuo7U3pzcmkcvbf0BDT76MgI4MjWjJndl3\neTtZnBr5L46vyPuc8b+HTNPI5x3ImSWHHksDq6/DbhWaqRp+Fl5DVpn7rWckzzSN\n4sRhlXyKPhlLvFV1CeHhnNQK9vhSFa7KehlhCt2SOLSbRXiVQ6Iz+hr0EOGeiTE0\nBPa2winxAgMBAAECgf8Hajvh2YSsQXK/8lOws5KONbnb9dEiv9BjjxopBn946oNx\ndOkw5fnn3UTTIq8MnoXN5DIaHwoRT/LJvUC0xkZjzA8L21tOmrCM0ta6JqTjJI06\nRG8WQaNYSHfFDC2DKf9m/bvT4fi7/34lPPQGvF+VwVLxGBh0t6bAqGLR/lCVRy8y\n/rAR90r5H7DRMGYqIrgW1RxCx/GfHKUDyqhP8dnBp8gmM8JWRKtcPWDwV9BxiTgN\nHOJQ+ZhuL4koFxcJvqAUUtzxbyRMGQEDBV0e89cIStVIEpiX7FG4idMEuIDFBK/v\n1mWl+5gIQbgj1cD+Te/m+ZP0WBv3S4ApD1gQmEECgYEA/4JRO/0M4faD6VTmrHz/\n18hjcnPsziHNJFCaPghlJVPHUhMyC/3M8byuODTZ5GGXQ96tyjM9VZ/SyfLk9QyA\nVpv0ZPz/U2XuGKtnrrYrealeRU91zNcM8fRekvWpDNJ84xmqfUvqQaFtgmbUzINu\nxqi/8ySXE5lVtmPO7BBSFR0CgYEAwf6ug05lVT3AIogzL+qGpocejWIeVMB43Nnx\nyXOqg5euqSMmpBpVRxtUA/iAul5fsAUm7e22Sevhz4R6H4jZMBbLpVMUTvuy2ACM\n7Rnwqi9XDTFsi7RFXI0fH5mBU/F45fL7HThDwW+TODr1fd0byuIBEp1JCYFNsf8D\nfrA6s+UCgYEAw4YO8e/wNs51HU4aA27YPWEcMM5jLU6SdDK2BbhY5lqZEcacqq56\ncZZoX5yaDPldTtONfEj/q5FVNbMI4DjD0QMg31L3c/NxYzFvczP2SvB/slxfEfSS\n9GiDIsSYq7Y7WXIflChOyBBnA737I9GEKMOjt8WNUrMo8xynkN/gYEUCgYAk2yEG\nm0dPOYseRGgNK25nhvY8AC8pBOQxeUqhblMv6wpo4d++f65B8yQ0GOtD/RgK1f++\nZlIimyjshwu4oAQ7SalpAG60Tsd8mCYuCaaafqH4RLKNnDMtUTZfh4d1jkPc1Bv3\nQjBFONBsd28aeX6FPgjcI3uzzZgYQA3G7O5KLQKBgAxPQI3BgwH8b9w4Vo1Dw7P7\nAucqTFhNmG/QBO52t31T8Nn7GuLoZLxQt7TSlB5I2tJbZM4P8YB3FpNLe4cspRx1\nLQcHI/a10AGH6Qb7rHKOuHJIaSfrwyKK/3fiELkm1Xl6pW8Z/uTnFHSgYCqXdTIK\nB8T0eZ0koTRURyNCDqFr\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-sheets-discord-bot@crypto-compass-384005.iam.gserviceaccount.com",
+  "client_id": "112501922393165172041",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-sheets-discord-bot%40crypto-compass-384005.iam.gserviceaccount.com"
+}
